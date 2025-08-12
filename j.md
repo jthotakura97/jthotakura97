@@ -11,3 +11,4 @@ Git Commands
 - git logs
 - git diff
 ```
+some of the git commands
